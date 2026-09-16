@@ -1,0 +1,1369 @@
+[
+  {
+    "id": "Q67H92",
+    "uniprot": "Q67H92",
+    "sequence": "MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYFFN",
+    "g": 1.0000000000000009,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q67H92",
+    "family": "Hydrophobic",
+    "length": 38,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P69402",
+    "uniprot": "P69402",
+    "sequence": "MLTITSYFGFLLAALTITSALFIGLSKIRLI",
+    "g": 1.0000000000000009,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P69402",
+    "family": "Hydrophobic",
+    "length": 31,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A4QKD9",
+    "uniprot": "A4QKD9",
+    "sequence": "MKIRASVRKICEKCRLIRRRGRIIVICSNPRHKQRQG",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A4QKD9",
+    "family": "Hydrophobic",
+    "length": 37,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P85753",
+    "uniprot": "P85753",
+    "sequence": "EQFDDYGHMRF",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P85753",
+    "family": "Hydrophobic",
+    "length": 11,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P85701",
+    "uniprot": "P85701",
+    "sequence": "GASGLIPVMRN",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P85701",
+    "family": "Hydrophobic",
+    "length": 11,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q67I33",
+    "uniprot": "Q67I33",
+    "sequence": "METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q67I33",
+    "family": "Hydrophobic",
+    "length": 43,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A4QJV0",
+    "uniprot": "A4QJV0",
+    "sequence": "MIEVFLFGIVLGLIPITLAGLFVTAYLQYRRGDQLDF",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A4QJV0",
+    "family": "Hydrophobic",
+    "length": 37,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P86663",
+    "uniprot": "P86663",
+    "sequence": "QGLIPFPRV",
+    "g": 1.0000000000000004,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P86663",
+    "family": "Hydrophobic",
+    "length": 9,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B0M2T8",
+    "uniprot": "B0M2T8",
+    "sequence": "ARTDNFVRL",
+    "g": 1.0000000000000002,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B0M2T8",
+    "family": "Hydrophobic",
+    "length": 9,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q7J1B3",
+    "uniprot": "Q7J1B3",
+    "sequence": "MTIDRTYPIFTVRWLAVHGLAVPTVSFLGSISAMQFIQR",
+    "g": 1.0,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q7J1B3",
+    "family": "Hydrophobic",
+    "length": 39,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P84414",
+    "uniprot": "P84414",
+    "sequence": "DHLPHDVYSPRL",
+    "g": 1.0,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P84414",
+    "family": "Hydrophobic",
+    "length": 12,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B0M3B3",
+    "uniprot": "B0M3B3",
+    "sequence": "GRGGASNYVRL",
+    "g": 1.0,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B0M3B3",
+    "family": "Hydrophobic",
+    "length": 11,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P86553",
+    "uniprot": "P86553",
+    "sequence": "GFKNVALSTARGF",
+    "g": 1.0,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P86553",
+    "family": "Hydrophobic",
+    "length": 13,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P42129",
+    "uniprot": "P42129",
+    "sequence": "MARYRRHSRSRSRSRYRRRRRRRSRHHNRRRTYRRSRRHSRRRRGRRRGYSRRRYSRRGRRRY",
+    "g": 0.9999999999999998,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P42129",
+    "family": "Hydrophobic",
+    "length": 63,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q49L05",
+    "uniprot": "Q49L05",
+    "sequence": "MDIVSLAWAALMVVFTFSLSLVVWGRSGL",
+    "g": 0.9999999999999998,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q49L05",
+    "family": "Hydrophobic",
+    "length": 29,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B3A056",
+    "uniprot": "B3A056",
+    "sequence": "QVNFTPGW",
+    "g": 0.9999999999999998,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B3A056",
+    "family": "Hydrophobic",
+    "length": 8,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B3A0I6",
+    "uniprot": "B3A0I6",
+    "sequence": "DGYTPRL",
+    "g": 0.9999999999999998,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B3A0I6",
+    "family": "Hydrophobic",
+    "length": 7,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q2MIJ0",
+    "uniprot": "Q2MIJ0",
+    "sequence": "MTLAFQLAVFALIATSLILLISVPVVFASPDGWSSNKNVVFSGTSLWIGLVFLVGILNSLIS",
+    "g": 0.9999999999999996,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q2MIJ0",
+    "family": "Hydrophobic",
+    "length": 62,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A4QLR7",
+    "uniprot": "A4QLR7",
+    "sequence": "MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGREE",
+    "g": 0.9999999999999992,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A4QLR7",
+    "family": "Hydrophobic",
+    "length": 36,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P84378",
+    "uniprot": "P84378",
+    "sequence": "GGSSGLISMPRV",
+    "g": 0.9999999999999992,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P84378",
+    "family": "Hydrophobic",
+    "length": 12,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P69528",
+    "uniprot": "P69528",
+    "sequence": "MEVNILAFIATALFILVPTAFLLIIYVKTVSQSD",
+    "g": 0.9999999999999992,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P69528",
+    "family": "Hydrophobic",
+    "length": 34,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P67789",
+    "uniprot": "P67789",
+    "sequence": "QLNFSPNW",
+    "g": 0.9999999999999992,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P67789",
+    "family": "Hydrophobic",
+    "length": 8,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P85546",
+    "uniprot": "P85546",
+    "sequence": "QVNFSPGWGT",
+    "g": 0.9999999999999984,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P85546",
+    "family": "Hydrophobic",
+    "length": 10,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B3A0J0",
+    "uniprot": "B3A0J0",
+    "sequence": "QVNFSPGW",
+    "g": 0.9998683569795034,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B3A0J0",
+    "family": "Hydrophobic",
+    "length": 8,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P56781",
+    "uniprot": "P56781",
+    "sequence": "MADTTGRIPLWVIGTVAGILVIGLIGIFFYGSYSGLGSSL",
+    "g": 0.9995812415342752,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P56781",
+    "family": "Hydrophobic",
+    "length": 40,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P20175",
+    "uniprot": "P20175",
+    "sequence": "MADTTGRIPLWLIGTVAGIPVIGLVGVFFYGSYSGLGSSL",
+    "g": 0.998622024069771,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P20175",
+    "family": "Hydrophobic",
+    "length": 40,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P84663",
+    "uniprot": "P84663",
+    "sequence": "GSSGMISFPRT",
+    "g": 0.9978877162535944,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P84663",
+    "family": "Hydrophobic",
+    "length": 11,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B3A0G0",
+    "uniprot": "B3A0G0",
+    "sequence": "GPETAFLRL",
+    "g": 0.9977748787506782,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B3A0G0",
+    "family": "Hydrophobic",
+    "length": 9,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A0A023IWE3",
+    "uniprot": "A0A023IWE3",
+    "sequence": "MSDINATRLPIWGIGCNPCVGDEVTALLTRGEA",
+    "g": 0.9963419381796365,
+    "motif": "Hydrophobe",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A0A023IWE3",
+    "family": "Hydrophobic",
+    "length": 33,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P86629",
+    "uniprot": "P86629",
+    "sequence": "RPPGFTPFR",
+    "g": 0.9998410034619634,
+    "motif": "RPPGF",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P86629",
+    "family": "Bradykinin-like",
+    "length": 9,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q7LZ52",
+    "uniprot": "Q7LZ52",
+    "sequence": "RPPGFSPFRIY",
+    "g": 0.9997447142457616,
+    "motif": "RPPGF",
+    "test": {
+      "test": "Membrane activity",
+      "method": "Hemolysis + membrane permeability test",
+      "model": "human red blood cells + liposomes",
+      "concentration": "1-100 µM",
+      "positive_control": "Mélittine 10 µM",
+      "negative_control": "PBS",
+      "measurement": "Hemolysis (%) + calcein leakage (%)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q7LZ52",
+    "family": "Bradykinin-like",
+    "length": 11,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q09WW7",
+    "uniprot": "Q09WW7",
+    "sequence": "MSHSVKIYDTCIGCTQCVRACPTDVLEMIPWDGCKAKQIASAPRTEDCVGCKRCESACPTDFLSVRVYLWHETTRSMGLAY",
+    "g": 0.9999999999999996,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q09WW7",
+    "family": "Defensin-like",
+    "length": 81,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P52724",
+    "uniprot": "P52724",
+    "sequence": "MDPCECTKSGTCNCGGSCTCTNCSCTSCKKSCCPCCPSGCTKCASGCVCKGKTCDTSCCQ",
+    "g": 0.9998833979632588,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P52724",
+    "family": "Defensin-like",
+    "length": 60,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A0A385XJ53",
+    "uniprot": "A0A385XJ53",
+    "sequence": "MASVSISCPSCSATDGVVRNGKSTAGHQRYLCSHCRKTWQLQFTYTASQPGTHQKIIDMAMNGVGCRATARIMGVGLNTILRHLKNSGRSR",
+    "g": 0.9997266143003112,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A0A385XJ53",
+    "family": "Defensin-like",
+    "length": 91,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q3C1K8",
+    "uniprot": "Q3C1K8",
+    "sequence": "MAKGKDVRVTVILECTSCVRNSVDKVSRGISRYITQKNRHNTPNRLELKKFCPYCYKHTIHGEIKK",
+    "g": 0.9996645176848143,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q3C1K8",
+    "family": "Defensin-like",
+    "length": 66,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q7JGL9",
+    "uniprot": "Q7JGL9",
+    "sequence": "MRTSYLLLFTLCLLMSEMASGDNFLTGLGHRSDHYNCVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK",
+    "g": 0.9995680142854064,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q7JGL9",
+    "family": "Defensin-like",
+    "length": 68,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P0DJ84",
+    "uniprot": "P0DJ84",
+    "sequence": "MGIARILSAVLFLSVLFVVTFPTLLSADHHDGRIDTCRLPSDRGRCKASFERWYFNGTTCTKFVYGGYGGNDNRFPTEKACMKRCAKA",
+    "g": 0.9986398190729472,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P0DJ84",
+    "family": "Defensin-like",
+    "length": 88,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "D2Y1X9",
+    "uniprot": "D2Y1X9",
+    "sequence": "MKASMFLALAGLVLLFVVGYASESEEKEFPRELLSKIFAVDDFKGEERGCKGFGDSCTPGKNECCPNYACSSKHKWCKVYLGK",
+    "g": 0.9979496404318948,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/D2Y1X9",
+    "family": "Defensin-like",
+    "length": 83,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P62954",
+    "uniprot": "P62954",
+    "sequence": "MYCLQWLLPVLLIPKPLNPALWFSHSMFMGFYLLSFLLERKPCTICALVFLAALFLICYSCWGNCFLYHCSDSPLPESAHDPGVVGT",
+    "g": 0.9971156144217942,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P62954",
+    "family": "Defensin-like",
+    "length": 87,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "D2Y2K6",
+    "uniprot": "D2Y2K6",
+    "sequence": "MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELEAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV",
+    "g": 0.9966258768404468,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/D2Y2K6",
+    "family": "Defensin-like",
+    "length": 84,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "B1P1D9",
+    "uniprot": "B1P1D9",
+    "sequence": "MKVSVLITLAVLGVMFVWASAAELEERGSDQRDSPAWLKSMERIFQSEERECRKMFGGCSVDSDCCAHLGCKPTLKYCAWDGTFGK",
+    "g": 0.9945754615525436,
+    "motif": "Cys-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923",
+        "P. aeruginosa ATCC 27853"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/B1P1D9",
+    "family": "Defensin-like",
+    "length": 86,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A1E9I6",
+    "uniprot": "A1E9I6",
+    "sequence": "MNPLIAAASVIAAGLAVGLASIGPGVGQGTAAGQAVEGIARQPEAEGKIRGTLLLSLAFMEALTIYGLVVALALLFANPFV",
+    "g": 1.0000000000000004,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A1E9I6",
+    "family": "Pro-rich",
+    "length": 81,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P0C7S0",
+    "uniprot": "P0C7S0",
+    "sequence": "QGGWPRPGPEIPP",
+    "g": 1.0,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P0C7S0",
+    "family": "Pro-rich",
+    "length": 13,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A4QLE6",
+    "uniprot": "A4QLE6",
+    "sequence": "MTRSLKKNPFVAKHLLRKIEKLNTKAEKEIIITWSRASTIIPTMIGHTIAIHNGREHLPVYIIDLMVGHKLGEFSPTINFRGHAKNDNRSRR",
+    "g": 0.9999999999999996,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A4QLE6",
+    "family": "Pro-rich",
+    "length": 92,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q3C1K2",
+    "uniprot": "Q3C1K2",
+    "sequence": "MEALVYTFLLVSTLGIIFFAIFFREPPKVPTKKN",
+    "g": 0.9997249851895692,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q3C1K2",
+    "family": "Pro-rich",
+    "length": 34,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q06GY7",
+    "uniprot": "Q06GY7",
+    "sequence": "MTDLNLPSIFVPLVGLVFPAIAMASLSLHVQKNKIV",
+    "g": 0.9992979651157818,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q06GY7",
+    "family": "Pro-rich",
+    "length": 36,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "P30980",
+    "uniprot": "P30980",
+    "sequence": "MTDFNLPSIFVPLVGLVFPAIAMTSLFLYVQKNKIV",
+    "g": 0.9988097605780896,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/P30980",
+    "family": "Pro-rich",
+    "length": 36,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "A1EA51",
+    "uniprot": "A1EA51",
+    "sequence": "MDGIKYAVFTEKSLRLLGKNQYTFNVESGFTKTEIKHWVELFFGVKVVAVNSHRLPGKGRRIGPILGHTMHYRRMIITLQPGYSIPLLDREKN",
+    "g": 0.9983543636329376,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/A1EA51",
+    "family": "Pro-rich",
+    "length": 93,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q8S8Y5",
+    "uniprot": "Q8S8Y5",
+    "sequence": "MVKLRLKRCGRKQRAVYRIVAIDVRSRREGKDLRKVGFYDPIKNQTYLNVPAILYFLEKGAQPTGTVQDILKKAEVFKELRPNQPKFN",
+    "g": 0.9945235761289638,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q8S8Y5",
+    "family": "Pro-rich",
+    "length": 88,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  },
+  {
+    "id": "Q9MSR2",
+    "uniprot": "Q9MSR2",
+    "sequence": "MEALVYTFLLVSTLGIIFFAIFFREPPKVPDRGSK",
+    "g": 0.9944435840586464,
+    "motif": "Pro-rich",
+    "test": {
+      "test": "Antimicrobial activity",
+      "method": "Agar diffusion test (Kirby-Bauer)",
+      "strains": [
+        "E. coli ATCC 25922",
+        "S. aureus ATCC 25923"
+      ],
+      "concentration": "10-100 µg/mL",
+      "positive_control": "Ampicilline 10 µg",
+      "negative_control": "PBS",
+      "measurement": "Inhibition zone (mm)"
+    },
+    "structure_3d": "https://alphafold.ebi.ac.uk/entry/Q9MSR2",
+    "family": "Pro-rich",
+    "length": 35,
+    "verifiability": {
+      "sequence_publique": true,
+      "score_g": true,
+      "stabilite": true,
+      "motif_identifiable": true,
+      "test_propose": true
+    }
+  }
+]
